@@ -1,0 +1,11 @@
+{
+    "name": "pixel1313/blog-bundle",
+    "description": "A blog bundle for symfony3.",
+    "authors": [
+        {
+            "name": "Matthew Levy",
+            "email": "mlevy@quetzalcoding.com"
+        }
+    ],
+    "require": {}
+}
